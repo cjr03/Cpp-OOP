@@ -1,0 +1,37 @@
+Shweta Agarwal
+First
+3.6
+6 1 2008
+Jim McGee
+Sophomore
+2.4
+8 4 2008
+Runjie Zhang
+Sophomore
+3.6
+9 23 2007
+Elena Gonzalez
+First
+3.2
+12 9 2009
+Brandon Lukach
+Sophomore
+2.7
+7 11 2008
+Bao Nguyen
+Senior
+3.1
+3 22 2006
+Jennifer Ramirez
+Junior
+3.5
+11 16 2006
+Margarita Smirnova
+Junior
+2.5
+2 7 2007
+Isaiah Johnson
+Senior
+3.1
+9 5 2005
+

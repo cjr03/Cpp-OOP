@@ -1,0 +1,27 @@
+Shweta Agarwal
+First
+3.6
+Jim McGee
+Sophomore
+2.4
+Runjie Zhang
+Sophomore
+3.6
+Elena Gonzalez
+First
+3.2
+Brandon Lukach
+Sophomore
+2.7
+Bao Nguyen
+Senior
+3.1
+Jennifer Ramirez
+Junior
+3.5
+Margarita Smirnova
+Junior
+2.5
+Isaiah Johnson
+Senior
+3.1
